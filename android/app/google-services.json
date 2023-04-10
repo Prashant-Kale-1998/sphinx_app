@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "350110221056",
+    "project_id": "sphinxapp-6b069",
+    "storage_bucket": "sphinxapp-6b069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350110221056:android:c054764a73be904adea9e5",
+        "android_client_info": {
+          "package_name": "com.example.sphinx_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350110221056-1oa9644h63rrrhgnpli8iprg4tbdqdor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sphinx_app",
+            "certificate_hash": "448444bd00e597d718549bf97d42a1343c60358c"
+          }
+        },
+        {
+          "client_id": "350110221056-2icg39lugjpmlrudqf6smpos0cgaq6nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYuiqAooaFx8SLxiorpKKghrZP2Y7gn1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350110221056-2icg39lugjpmlrudqf6smpos0cgaq6nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
